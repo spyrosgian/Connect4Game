@@ -4,7 +4,7 @@ module of the MSc Computer Science of University of Bath.
 
 The game Connect4 is a game that can be played between a human and a computer player, on a 6x7 grid. The goal is to connect 4 tokens either diagonally, horizontally or vertically.
 
-There are two versiona for this game:
+There are two versions for this game:
 
 Version 1: A Java program that allows a human to play the game Connect4 against 1 computer using a 6x7 grid.
 
